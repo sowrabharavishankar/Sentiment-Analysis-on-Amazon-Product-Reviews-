@@ -38,7 +38,22 @@ This project:
   - `pandas` — data manipulation  
   - `matplotlib`, `seaborn` — visualizations  
   - `nltk`, `textblob`, `vaderSentiment` — NLP and sentiment analysis  
-  - `wordcloud` — text visualization  
+  - `wordcloud` — text visualization
+ 
+---
+
+## Visualization
+
+Sentiment Distribution
+
+<img width="616" height="444" alt="image" src="https://github.com/user-attachments/assets/c705617c-ca6d-4c32-9f38-dd4500f81536" />
+
+Word Cloud for 'Positive', 'Negative' and 'Neutral' sentiments
+
+<img width="480" height="801" alt="image" src="https://github.com/user-attachments/assets/6a8f07f9-8b38-4a06-bed7-c7fc56a1a8e6" />
+
+
+
 
 
 
